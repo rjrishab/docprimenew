@@ -1,0 +1,19 @@
+{
+    "short_name": "DocPrime",
+    "name": "DocPrime",
+    "display": "standalone",
+    "theme_color": "#f78631",
+    "gcm_sender_id": "103953800507",
+    "icons": [
+        {
+            "src": "/assets/logo.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/appicon_consumer.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }
+    ]
+}
